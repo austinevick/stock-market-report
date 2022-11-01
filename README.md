@@ -1,4 +1,4 @@
-# flutter_marketstack_app
+# Stock Market Report
 
 A stock market report app built with Flutter to show Stock market report from [marketstack API](https://marketstack.com/).
 
@@ -12,3 +12,4 @@ A stock market report app built with Flutter to show Stock market report from [m
 1. Download source code from github
 2. Get your API key from [marketstack](https://marketstack.com/)
 3. And you are good to go
+4. Download APK from [Google Drive](https://drive.google.com/file/d/1bDOy2UXiTqzhscL1Ia_uAg84YxBA0vJg/view?usp=sharing)
