@@ -1,16 +1,15 @@
-# flutter_marketstack_app
+# Stock Market Report
 
-A new Flutter project.
+A stock market report app built with Flutter to show Stock market report from [marketstack API](https://marketstack.com/).
 
-## Getting Started
+# Features
+1. Display stock market report.
+2. Filter by date range.
+3. Notify Users when offline.
+4. Filter by search.
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# How to run
+1. Download source code from github
+2. Get your API key from [marketstack](https://marketstack.com/)
+3. And you are good to go
+4. Download APK from [Google Drive](https://drive.google.com/file/d/1bDOy2UXiTqzhscL1Ia_uAg84YxBA0vJg/view?usp=sharing)
