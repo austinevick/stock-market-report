@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
 
-import '../view/home_view/home_view.dart';
-import '../view_model/home_view_model.dart';
+import '../view/home_view.dart';
+import '../view/home_view_model.dart';
 import 'custom_textfield.dart';
 
 class StockMarketSearchField extends ConsumerWidget {

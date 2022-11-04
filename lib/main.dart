@@ -1,7 +1,6 @@
-import 'package:data_table_2/data_table_2.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_marketstack_app/common/utils.dart';
-import 'package:flutter_marketstack_app/view/home_view/home_view.dart';
+import 'package:flutter_marketstack_app/view/home_view.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
 
 void main() {

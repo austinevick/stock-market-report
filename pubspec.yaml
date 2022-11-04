@@ -30,12 +30,10 @@ environment:
 # versions available, run `flutter pub outdated`.
 dependencies:
   app_settings: ^4.1.8
-  connectivity: ^3.0.6
   connectivity_plus: ^3.0.2
   cupertino_icons: ^1.0.2
   entry: ^0.0.7
   flash: ^2.0.5
-  data_table_2: ^2.3.8
   flutter:
     sdk: flutter
   flutter_riverpod: ^2.0.2

@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_marketstack_app/model/stock_exchange_data_model.dart';
-import 'package:flutter_marketstack_app/view_model/home_view_model.dart';
+import 'package:flutter_marketstack_app/view/home_view_model.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
 
 import '../common/constant.dart';

@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_marketstack_app/common/constant.dart';
-import 'package:flutter_marketstack_app/view_model/home_view_model.dart';
+import 'package:flutter_marketstack_app/view/home_view_model.dart';
 import 'package:flutter_marketstack_app/widget/stock_market_error_screen.dart';
 import 'package:flutter_marketstack_app/widget/stock_market_list.dart';
 import 'package:flutter_marketstack_app/widget/stock_market_search_field.dart';
